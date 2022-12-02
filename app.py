@@ -18,7 +18,7 @@ import plotly.express as px
 st.title("New App for Class")
 st.markdown("This is a demo Streamlit app.")
 st.markdown("My name is Amanda, hello world!..")
-st.markdown("This is v2")
+st.markdown("This is v3")
 
 @st.cache(persist=True)
 def load_data():
